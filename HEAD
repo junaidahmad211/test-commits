@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 67ab18a245ebd65eacae223c4206b461986af0e0 zeeshan138063 <f138063@nu.edu.pk> 1647979742 +0500	clone: from https://github.com/dtatarkin/braze-client
+67ab18a245ebd65eacae223c4206b461986af0e0 a5619463d1d4b951dd9e3b969f91f6d68a0fff10 zeeshan138063 <f138063@nu.edu.pk> 1648738498 +0500	commit: fix api_url to strip a trailing slash
+a5619463d1d4b951dd9e3b969f91f6d68a0fff10 a5619463d1d4b951dd9e3b969f91f6d68a0fff10 zeeshan138063 <f138063@nu.edu.pk> 1648738538 +0500	checkout: moving from master to fix_trailing_slash_for_braze_api_url
